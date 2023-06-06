@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Übung1.anagram_anh.*" />
+          <option value="sys" />
+          <option value="Übung1.anagram.print" />
+          <option value="Übung1.anagram.int" />
+          <option value="Übung1.anagram.max" />
+          <option value="Übung1.anagram.open" />
+          <option value="Übung1.anagram.sorted" />
+          <option value="Übung1.anagram.set" />
+          <option value="Übung1.anagram.list" />
+          <option value="Übung1.anagram.itertools" />
+          <option value="Übung1.anagram.collections" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
